@@ -1,7 +1,5 @@
 ### Hi there 👋
 <p align="center"><img src="https://i.ibb.co/xY1Khwf/Add-a-heading-2.png" height="333" width="600"></p>
-<div style="background-image: url('https://i.ibb.co/xY1Khwf/Add-a-heading-2.png'); background-size: cover; padding: 100px; text-align: center; color: #fff;">
-</div>
 
 <h1 align="center">Hi 👋, I'm Isteak Ahmed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
