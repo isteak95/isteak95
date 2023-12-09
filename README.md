@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"><img src="https://i.ibb.co/xY1Khwf/Add-a-heading-2.png" height="333" width="600"></p>
+<p align="center"><img src="https://i.ibb.co/xY1Khwf/Add-a-heading-2.png" height="350" width="600"></p>
 
 <h1 align="center">Hi 👋, I'm Isteak Ahmed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
