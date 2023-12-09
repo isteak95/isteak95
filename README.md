@@ -1,11 +1,9 @@
 ## Hi 👋, I'm Isteak Ahmed - Web Developer
 
-
-- <div align="center" >
+<div align="center" >
   <img src="https://i.ibb.co/xY1Khwf/Add-a-heading-2.png" height="500" width="90%">
 </div>
-<!-- GitHub Stats -->
-<div>
+
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="git"></code>
