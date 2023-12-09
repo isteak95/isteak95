@@ -3,7 +3,7 @@
 
 
 <div align="center" style="margin-top: 80px;">
-  <img src="https://i.ibb.co/xY1Khwf/Add-a-heading-2.png" height="400" width="70%">
+  <img src="https://i.ibb.co/xY1Khwf/Add-a-heading-2.png" height="500" width="70%">
 </div>
 <!-- GitHub Stats -->
 <div>
@@ -11,20 +11,23 @@
   ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="git"></code>
-<code><img height="27" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="37" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="git"></code>
+<code><img height="37" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git"></code>
 
-
+<!-- GitHub Stats -->
+<div>
   <h2>Stats📈</h2>
 
   <p align="center">
-    <img width="90%" src="https://github-readme-stats.vercel.app/api?username=isteak95&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <br/>
-<a  href="https://git.io/streak-stats"><img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isteak95&theme=algolia" alt="GitHub Streak" /></a>  </p>
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isteak95&theme=algolia" alt="GitHub Streak" />
+    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isteak95&theme=algolia&utcOffset=8" alt="GitHub Stats" />
+    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isteak95&theme=algolia" alt="GitHub Streak" />
+    <img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isteak95&theme=algolia" alt="GitHub Streak" />
+  </p>
 </div>
 
 # 💻 Tech Stack: 
