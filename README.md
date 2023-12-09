@@ -13,8 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/-hardhat-yellow?style=for-the-badge)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 <!--  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)  -->
 
-## 💻 Tech Stack
-
 - **Languages:** HTML, CSS, JavaScript
 - **Library/Framework:** React
 - **Tools:** Git, VSCode
@@ -27,9 +25,6 @@
 - Stay updated on the latest frontend technologies and best practices.
 - Collaborate with cross-functional teams to deliver exceptional user experiences.
 
-## 🌱 Learning & Growing
-
-I believe in continuous learning. Currently exploring [insert current learning focus], and always open to new challenges and opportunities.
 
 
 
@@ -130,6 +125,9 @@ Welcome to our Electronics E-commerce platform, where technology meets convenien
 - 🐦 [Twitter](https://twitter.com/Isteak95)
 - 📧 [Email](isteakahamed54gmail.com) 
 
+## 🌱 Learning & Growing
+
+I believe in continuous learning. Currently exploring [insert current learning focus], and always open to new challenges and opportunities.
 
 
 
