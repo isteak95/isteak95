@@ -2,12 +2,12 @@
 
 
 - <div align="center" >
-  <img src="https://i.ibb.co/xY1Khwf/Add-a-heading-2.png" height="500" width="70%">
+  <img src="https://i.ibb.co/xY1Khwf/Add-a-heading-2.png" height="500" width="90%">
 </div>
 <!-- GitHub Stats -->
 <div>
 
-  ### Languages and Tools:
+### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="37" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
