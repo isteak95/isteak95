@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋 Hello World! I'm [YourName] - Frontend Developer
 <p align="center"><img src="https://i.ibb.co/xY1Khwf/Add-a-heading-2.png" height="350" width="600"></p>
 
 <h1 align="center">Hi 👋, I'm Isteak Ahmed</h1>
@@ -7,7 +7,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-# 👋 Hello World! I'm [YourName] - Frontend Developer
 
 Welcome to my coding playground! I'm a passionate frontend developer on a mission to create captivating and user-friendly web experiences. With a knack for turning design visions into reality, I specialize in HTML, CSS, and JavaScript, with a focus on React for building dynamic interfaces.
 
