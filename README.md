@@ -55,6 +55,36 @@ Bang Library is a dynamic web platform designed to streamline the blood donation
 -   [server-site](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-isteak95)
 -   [Live link](https://low-mint.surge.sh/)
 
+# 🛒 Electronics E-commerce Platform
+
+Welcome to our Electronics E-commerce platform, where technology meets convenience. Built with React.js for a dynamic UI, Node.js for a robust backend, and MongoDB for efficient data storage. Shop seamlessly, explore cutting-edge electronics, and experience a new era of online shopping.
+
+## Technologies Used
+
+- **Frontend:**
+  - React.js: Crafting dynamic and responsive user interfaces.
+
+- **Backend:**
+  - Node.js: Handling server-side logic and API endpoints.
+  - Express.js: Building a scalable and secure backend.
+
+- **Database:**
+  - MongoDB: Efficiently managing product data.
+
+## Features
+
+- **User Authentication:** Securely manage user accounts and profiles.
+- **Product Catalog:** Explore a diverse range of electronic products.
+- **Shopping Cart:** Effortlessly add, remove, and purchase items.
+- **Order Tracking:** Stay informed with real-time order updates.
+
+## Getting Started
+
+-   [Clint-site](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-isteak95)
+-   [server-site](https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-isteak95)
+-   [Live link](https://electronics-and-tecnology-spot.surge.sh/)
+
+
 <div align="center" style="margin-top: 80px;">
   <img src="https://i.ibb.co/xY1Khwf/Add-a-heading-2.png" height="500" width="70%">
 </div>
