@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p align="center"><img src="https://user-images.githubusercontent.com/75971776/135149518-789bbe5c-ed66-43e5-9ad8-5627cef36933.png" height="333" width="400"></p>
+
 <h1 align="center">Hi 👋, I'm Isteak Ahmed</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
